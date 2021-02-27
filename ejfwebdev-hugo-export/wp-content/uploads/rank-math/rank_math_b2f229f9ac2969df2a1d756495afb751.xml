@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//evanjfarmer.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://evanjfarmer.com/news/</loc>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/responsiveness/</loc>
+		<lastmod>2020-10-16T00:34:05-04:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/webdev-with-wordpress/</loc>
+		<lastmod>2020-10-16T00:34:05-04:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/value-of-a-website/</loc>
+		<lastmod>2020-10-16T00:34:05-04:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/wordcamp-reflections/</loc>
+		<lastmod>2020-10-16T00:34:04-04:00</lastmod>
+	</url>
+</urlset>

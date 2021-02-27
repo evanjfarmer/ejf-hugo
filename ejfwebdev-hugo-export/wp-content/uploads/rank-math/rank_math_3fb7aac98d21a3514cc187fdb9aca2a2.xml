@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//evanjfarmer.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://evanjfarmer.com/</loc>
+		<lastmod>2020-10-15T01:41:48-04:00</lastmod>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/09/aboutsquare.jpg</image:loc>
+			<image:caption><![CDATA[Evan About Photo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/09/portfolioimg.png</image:loc>
+			<image:caption><![CDATA[Portfolio Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/09/letsgoimg.jpg</image:loc>
+			<image:caption><![CDATA[Man Running Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/img-crop.png</image:loc>
+			<image:caption><![CDATA[Image Crop Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/light-bulb.png</image:loc>
+			<image:caption><![CDATA[Light Bulb Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/like.png</image:loc>
+			<image:caption><![CDATA[Like Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/basket.png</image:loc>
+			<image:caption><![CDATA[Basket Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/09/chart.png</image:loc>
+			<image:caption><![CDATA[Chart Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/09/tablet.png</image:loc>
+			<image:caption><![CDATA[Tablet Icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/09/magnifier.png</image:loc>
+			<image:caption><![CDATA[Magnifier Icon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/news/</loc>
+		<lastmod>2020-11-18T00:56:54-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/about/</loc>
+		<lastmod>2020-11-18T21:36:42-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/contact/</loc>
+		<lastmod>2020-11-18T01:12:08-05:00</lastmod>
+		<image:image>
+			<image:loc>https://www.evanjfarmer.com/wp-content/uploads/2016/10/contact-header.jpg</image:loc>
+			<image:caption><![CDATA[Blocks]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.evanjfarmer.com/wp-content/uploads/2016/10/contact-smartphone.jpg</image:loc>
+			<image:caption><![CDATA[Smartphone Icon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/projects/</loc>
+		<lastmod>2020-11-17T22:26:21-05:00</lastmod>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/11/blue-projects.jpg</image:loc>
+			<image:caption><![CDATA[Mac Background and Coffee]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2018/08/essa-arts-site.jpg</image:loc>
+			<image:caption><![CDATA[Essa Arts Site]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2018/08/essa-arts-blog.jpg</image:loc>
+			<image:caption><![CDATA[Essa Arts Blog]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/red-cedar-site.jpg</image:loc>
+			<image:caption><![CDATA[Red Cedar Site]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/red-cedar-store.jpg</image:loc>
+			<image:caption><![CDATA[Red Cedar Store]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/11/A2WP.jpg</image:loc>
+			<image:caption><![CDATA[A2 WP Meetup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/10/wordpress-4-240.png</image:loc>
+			<image:caption><![CDATA[WP Meetup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/11/JXNWP.png</image:loc>
+			<image:caption><![CDATA[Jackson WP Meetup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/11/WC2015.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2016/11/WC2016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2017/05/wcjxn.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/wpbuffs/</loc>
+		<lastmod>2020-09-28T16:03:25-04:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/send-payment/</loc>
+		<lastmod>2020-02-13T11:58:10-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/give/</loc>
+		<lastmod>2019-12-03T11:49:10-05:00</lastmod>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2019/11/Photo-Nov-04-5-30-32-PM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://evanjfarmer.com/wp-content/uploads/2019/11/Photo-Nov-04-5-29-44-PM-e1573128078532.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/request-estimate-proposal/</loc>
+		<lastmod>2019-11-07T21:46:11-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/donation-confirmation/</loc>
+		<lastmod>2019-11-06T00:46:06-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/donation-failed/</loc>
+		<lastmod>2019-11-06T00:46:06-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/donation-history/</loc>
+		<lastmod>2019-11-06T00:46:06-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://evanjfarmer.com/clients/</loc>
+		<lastmod>2019-10-15T21:56:18-04:00</lastmod>
+	</url>
+</urlset>
